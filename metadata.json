@@ -1,0 +1,6 @@
+{
+  "name": "Pac-Man Arcade Game",
+  "description": "A complete, retro 80s arcade Pac-Man game with smooth buffered movement, ghost AI behaviors, power pellets, sound synthesizer, and high score tracking in pure single-file HTML5.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
